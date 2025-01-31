@@ -1,2 +1,2 @@
 #Getting services details
-Get-Service
+Get-Service -DependentServices AppMgmt
