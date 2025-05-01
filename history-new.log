@@ -1,0 +1,32 @@
+Upgrade: python3.12:amd64 (3.12.3-1ubuntu0.4, 3.12.3-1ubuntu0.5), libexpat1:amd64 (2.6.1-2ubuntu0.2, 2.6.1-2ubuntu0.3), libpython3.12-minimal:amd64 (3.12.3-1ubuntu0.4, 3.12.3-1ubuntu0.5), libpython3.12t64:amd64 (3.12.3-1ubuntu0.4, 3.12.3-1ubuntu0.5), python3.12-minimal:amd64 (3.12.3-1ubuntu0.4, 3.12.3-1ubuntu0.5), libpython3.12-stdlib:amd64 (3.12.3-1ubuntu0.4, 3.12.3-1ubuntu0.5)
+End-Date: 2025-05-01  09:47:15
+
+Start-Date: 2025-05-01  11:24:19
+Commandline: apt install sysstat
+Requested-By: satishchikkadi (1000)
+Install: sysstat:amd64 (12.6.1-2)
+End-Date: 2025-05-01  11:24:26
+
+Start-Date: 2025-05-01  11:28:31
+Commandline: apt install net-tools
+Requested-By: satishchikkadi (1000)
+Install: net-tools:amd64 (2.10-0.1ubuntu4)
+End-Date: 2025-05-01  11:28:33
+
+Start-Date: 2025-05-01  11:33:59
+Commandline: apt install openssh-server
+Requested-By: satishchikkadi (1000)
+Install: libwrap0:amd64 (7.6.q-33, automatic), ssh-import-id:amd64 (5.11-0ubuntu2.24.04.1, automatic), openssh-server:amd64 (1:9.6p1-3ubuntu13.11), openssh-sftp-server:amd64 (1:9.6p1-3ubuntu13.11, automatic), ncurses-term:amd64 (6.4+20240113-1ubuntu2, automatic)
+Upgrade: openssh-client:amd64 (1:9.6p1-3ubuntu13.5, 1:9.6p1-3ubuntu13.11)
+End-Date: 2025-05-01  11:34:10
+
+Start-Date: 2025-05-01  11:47:24
+Commandline: apt install bind9-dnsutils
+Requested-By: satishchikkadi (1000)
+Install: bind9-host:amd64 (1:9.18.30-0ubuntu0.24.04.2, automatic), libmaxminddb0:amd64 (1.9.1-1build1, automatic), libuv1t64:amd64 (1.48.0-1.1build1, automatic), bind9-dnsutils:amd64 (1:9.18.30-0ubuntu0.24.04.2), bind9-libs:amd64 (1:9.18.30-0ubuntu0.24.04.2, automatic), liblmdb0:amd64 (0.9.31-1build1, automatic)
+End-Date: 2025-05-01  11:47:27
+
+Start-Date: 2025-05-01  11:53:23
+Commandline: apt install inetutils-traceroute
+Install: inetutils-traceroute:amd64 (2:2.5-3ubuntu4)
+End-Date: 2025-05-01  11:53:25
